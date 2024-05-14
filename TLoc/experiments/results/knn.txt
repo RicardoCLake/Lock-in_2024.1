@@ -1,0 +1,44 @@
+Args:
+	augmentation: False
+	metric: manhattan
+	ranking: False
+	seed: 33
+Building and floor accuracy: 88.03
+Prediction time: 5.99 s
+
+Mean error = 10.12, median error = 5.46, P90 = 19.97, P95 = 30.06
+Prediction time: 56.53 s
+End of execution
+Args:
+	augmentation: False
+	metric: euclidean
+	ranking: False
+	seed: 33
+Building and floor accuracy: 89.56
+Prediction time: 0.97 s
+
+Mean error = 8.96, median error = 5.46, P90 = 19.00, P95 = 26.08
+Prediction time: 5.35 s
+End of execution
+Args:
+	augmentation: True
+	metric: euclidean
+	ranking: False
+	seed: 33
+Building and floor accuracy: 90.73
+Prediction time: 1.29 s
+
+Mean error = 8.58, median error = 5.44, P90 = 18.36, P95 = 25.68
+Prediction time: 6.59 s
+End of execution
+Args:
+	augmentation: False
+	metric: manhattan
+	ranking: True
+	seed: 33
+Building and floor accuracy: 80.11
+Prediction time: 9.89 s
+
+Mean error = 12.05, median error = 7.98, P90 = 23.84, P95 = 33.55
+Prediction time: 27.0 s
+End of execution

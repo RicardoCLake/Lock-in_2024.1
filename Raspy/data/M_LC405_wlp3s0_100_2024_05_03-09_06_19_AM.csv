@@ -1,0 +1,123 @@
+,ap_mac,ap_name
+0,1c:1e:e3:94:17:f8,IFP_17f8
+1,1c:1e:e3:db:04:b8,ES_8943
+2,94:d4:69:f6:b5:a2,START UP FOR KIDS
+3,94:d4:69:f6:b5:a3,CD91
+4,94:d4:69:fa:94:48,stop&go
+5,94:d4:69:fa:9a:00,eduroam
+6,94:d4:69:fa:9a:01,
+7,94:d4:69:fa:9a:02,START UP FOR KIDS
+8,94:d4:69:fa:9a:03,CD91
+9,94:d4:69:fa:9a:04,Guest-CentraleSupelec
+10,94:d4:69:fa:9a:05,
+11,94:d4:69:fa:9a:06,fabrique2024
+12,94:d4:69:fa:9a:07,stop&go
+13,94:d4:69:fa:9a:09,fabrique2024
+14,94:d4:69:fa:9a:0b,Guest-CentraleSupelec
+15,94:d4:69:fa:9a:0c,CD91
+16,94:d4:69:fa:9a:0d,START UP FOR KIDS
+17,94:d4:69:fa:9a:0f,eduroam
+18,94:d4:69:fd:b1:00,eduroam
+19,94:d4:69:fd:b1:01,
+20,94:d4:69:fd:b1:02,START UP FOR KIDS
+21,94:d4:69:fd:b1:03,CD91
+22,94:d4:69:fd:b1:04,Guest-CentraleSupelec
+23,94:d4:69:fd:b1:05,
+24,94:d4:69:fd:b1:06,fabrique2024
+25,94:d4:69:fd:b1:07,
+26,94:d4:69:fd:b1:09,TOSS2024
+27,94:d4:69:fd:b1:0b,Guest-CentraleSupelec
+28,94:d4:69:fd:b1:0c,CD91
+29,94:d4:69:fd:b1:0d,START UP FOR KIDS
+30,94:d4:69:fd:b2:20,eduroam
+31,94:d4:69:fd:b2:21,
+32,94:d4:69:fd:b2:22,START UP FOR KIDS
+33,94:d4:69:fd:b2:23,CD91
+34,94:d4:69:fd:b2:24,Guest-CentraleSupelec
+35,94:d4:69:fd:b2:26,fabrique2024
+36,94:d4:69:fd:b2:27,
+37,94:d4:69:fd:b2:28,stop&go
+38,94:d4:69:fd:b2:29,TOSS2024
+39,94:d4:69:fd:b2:2b,Guest-CentraleSupelec
+40,94:d4:69:fd:b2:2c,CD91
+41,94:d4:69:fd:b2:2d,START UP FOR KIDS
+42,94:d4:69:fd:b2:2f,eduroam
+43,aa:6b:ad:45:e7:0d,DIRECT-0d-HP M203 LaserJet
+44,94:d4:69:fa:9a:08,stop&go
+45,94:d4:69:fd:b1:08,stop&go
+46,94:d4:69:fd:b1:0f,eduroam
+47,94:d4:69:fd:b2:25,
+48,70:d3:79:39:6c:00,eduroam
+49,70:d3:79:39:6c:01,
+50,70:d3:79:39:6c:02,START UP FOR KIDS
+51,70:d3:79:39:6c:03,CD91
+52,70:d3:79:39:6c:04,Guest-CentraleSupelec
+53,70:d3:79:39:6c:05,
+54,70:d3:79:39:6c:06,fabrique2024
+55,70:d3:79:39:6c:07,
+56,70:d3:79:39:6c:08,stop&go
+57,70:d3:79:39:de:20,eduroam
+58,70:d3:79:39:de:21,
+59,70:d3:79:39:de:22,START UP FOR KIDS
+60,94:d4:69:fa:94:46,fabrique2024
+61,94:d4:69:fd:b1:0a,
+62,b2:3e:26:00:d8:44,Bbox_60635799
+63,70:d3:79:39:6c:09,TOSS2024
+64,94:d4:69:fa:94:49,TOSS2024
+65,00:0e:8e:6e:4d:5e,ClickShare-AMPHI LANGUES
+66,28:ee:52:ae:77:08,Le Toucan D\xc3\xa9cha\xc3\xaen\xc3\xa9
+67,94:d4:69:fa:94:47,
+68,94:d4:69:fa:9a:0e,
+69,94:d4:69:fd:b1:0e,
+70,70:d3:79:39:de:28,stop&go
+71,94:d4:69:f9:7d:c0,eduroam
+72,94:d4:69:f9:7d:c5,
+73,94:d4:69:f9:7d:c6,fabrique2024
+74,94:d4:69:f9:7d:c8,stop&go
+75,94:d4:69:f9:7d:c9,TOSS2024
+76,28:ee:52:ae:77:07,Le Toucan D\xc3\xa9cha\xc3\xaen\xc3\xa9 5GHz
+77,70:d3:79:39:de:23,CD91
+78,70:d3:79:39:de:24,Guest-CentraleSupelec
+79,94:d4:69:f6:b5:a8,stop&go
+80,94:d4:69:fd:ac:e5,
+81,94:d4:69:fd:b2:2a,
+82,94:d4:69:fd:b2:2e,
+83,70:d3:79:39:de:27,
+84,70:d3:79:39:de:29,TOSS2024
+85,94:d4:69:fa:9a:0a,
+86,70:d3:79:39:de:25,
+87,70:d3:79:39:de:26,fabrique2024
+88,94:d4:69:f9:7d:c4,Guest-CentraleSupelec
+89,94:d4:69:f9:7d:c1,
+90,10:be:f5:be:83:c0,
+91,94:d4:69:fa:94:44,Guest-CentraleSupelec
+92,e8:cc:18:8d:3e:00,wifi amphi 120-3 5g
+93,94:d4:69:fa:94:45,
+94,94:d4:69:f9:7d:c7,
+95,e8:cc:18:8d:3e:10,wifi amphi 120-3
+96,94:d4:69:fa:94:43,CD91
+97,94:d4:69:fd:b1:e2,START UP FOR KIDS
+98,ba:5a:e1:12:88:a3,Galaxy A12780C
+99,10:be:f5:be:82:a8,
+100,94:d4:69:f6:b5:a4,Guest-CentraleSupelec
+101,94:d4:69:f6:b5:a5,
+102,94:d4:69:f6:b5:a6,fabrique2024
+103,94:d4:69:fa:94:42,START UP FOR KIDS
+104,94:d4:69:fa:94:40,eduroam
+105,94:d4:69:fa:94:41,
+106,94:d4:69:fd:b1:e5,
+107,94:d4:69:fd:b1:e3,CD91
+108,94:d4:69:fd:b1:e0,eduroam
+109,94:d4:69:fd:b1:e1,
+110,94:d4:69:fd:b1:e4,Guest-CentraleSupelec
+111,94:d4:69:f7:98:e6,fabrique2024
+112,94:d4:69:f7:98:e7,
+113,94:d4:69:f7:98:e3,CD91
+114,94:d4:69:f7:98:e5,
+115,94:d4:69:f6:b5:a1,
+116,94:d4:69:f7:98:e0,eduroam
+117,94:d4:69:f7:98:e2,START UP FOR KIDS
+118,94:d4:69:f7:98:e1,
+119,94:d4:69:fd:b1:e9,TOSS2024
+120,94:d4:69:f9:7d:c2,START UP FOR KIDS
+121,94:d4:69:f9:7d:c3,CD91
