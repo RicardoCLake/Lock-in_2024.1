@@ -10,7 +10,8 @@ class TLoc:
         # self.non_null_minimum_percentage = 0.1
         self.train_data = train_data
         # self.aps = self.get_aps_with_non_zero_minimum_percentage(self.train_data)
-        self.aps = list(self.train_data.columns[1:])
+        cols = self.train_data.columns
+        self.aps = list(cols[cols != pred_class])
         if len(self.aps) == 1:
             self.max_power = int(self.train_data[self.aps].max())
         else:
