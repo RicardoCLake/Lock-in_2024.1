@@ -29,14 +29,14 @@
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:zoom="0.50898004"
-     inkscape:cx="623.79657"
-     inkscape:cy="547.17274"
+     inkscape:cx="336.94838"
+     inkscape:cy="663.09084"
      inkscape:window-width="1920"
      inkscape:window-height="987"
      inkscape:window-x="0"
-     inkscape:window-y="56"
+     inkscape:window-y="956"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer8" />
   <defs
      id="defs2">
     <linearGradient
@@ -352,7 +352,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Fundo foto"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <image
        width="256.28088"
        height="199.87482"
@@ -13183,7 +13184,7 @@ AAAAAElFTkSuQmCC
        height="200.12599"
        x="17.883976"
        y="3.7695892"
-       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/rect161644.png"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        ry="0" />
@@ -13195,7 +13196,7 @@ AAAAAElFTkSuQmCC
        x="275.06506"
        y="207.49799"
        transform="rotate(-1)"
-       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/rect161644.png"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
@@ -13203,7 +13204,8 @@ AAAAAElFTkSuQmCC
      inkscape:label="paredes"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:none;stroke:#383838;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 30.371556,11.464065 270.3391,10.953367 273.97106,197.24559 28.522209,198.70598 Z"
@@ -13446,10 +13448,10 @@ AAAAAElFTkSuQmCC
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect21451);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="392.34961"
          y="487.39844"
-         id="tspan233605"><tspan
+         id="tspan264318"><tspan
            dx="0 9.3333149 9.3333149"
            style="font-size:18.6667px;font-family:'Noto Sans Mono CJK HK';-inkscape-font-specification:'Noto Sans Mono CJK HK, Normal'"
-           id="tspan233603">448</tspan></tspan></text>
+           id="tspan264316">448</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -13460,7 +13462,8 @@ AAAAAElFTkSuQmCC
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="bolas1"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:url(#radialGradient196085);fill-opacity:1;fill-rule:evenodd;stroke:#004aad;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect193142"
@@ -13606,7 +13609,8 @@ AAAAAElFTkSuQmCC
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="bolas2"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="fill:url(#radialGradient196085-6-6-9-3);fill-opacity:1;fill-rule:evenodd;stroke:#38b6ff;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect193142-5-0-0-5"
@@ -13692,7 +13696,8 @@ AAAAAElFTkSuQmCC
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="numeros"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
@@ -13906,7 +13911,213 @@ AAAAAElFTkSuQmCC
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="corredores"
-     style="display:none" />
+     id="layer8"
+     inkscape:label="Protocolo">
+    <path
+       style="display:inline;fill:none;stroke:#383838;stroke-width:4.18542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 257.61745,75.947547 -85.11427,0.789905"
+       id="path1875-4"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#383838;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 260.27662,28.036346 42.598042,28.826251"
+       id="path1875-4-5"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#383838;stroke-width:4.18542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 258.8701,188.47286 47.012715,188.83069"
+       id="path1875-4-6"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#383838;stroke-width:4.18542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 257.61745,75.947547 258.8701,188.47286"
+       id="path1877-6"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#383838;stroke-width:4.18542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 151.23384,74.253953 0.11235,114.475127"
+       id="path1879-2"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#383838;stroke-width:4.18542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 128.07242,76.725926 45.682483,76.980062 47.012715,188.83083"
+       id="path1881-7"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       x="114.625"
+       y="115.51749"
+       id="text98043-3-9-6"
+       transform="rotate(-1)"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98041-1-30-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="114.625"
+         y="115.51749">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       x="164.40042"
+       y="116.50304"
+       id="text98043-3-9-6-32"
+       transform="rotate(-1)"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98041-1-30-2-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="164.40042"
+         y="116.50304">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       x="113.9402"
+       y="176.64456"
+       id="text98043-3-9-6-3"
+       transform="rotate(-1)"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98041-1-30-2-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="113.9402"
+         y="176.64456">2</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="113.9402"
+         y="190.34569"
+         id="tspan260808" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       x="224.70935"
+       y="115.43935"
+       id="text98043-3-9-6-3-5"
+       transform="rotate(-1)"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98041-1-30-2-7-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="224.70935"
+         y="115.43935">2</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="224.70935"
+         y="129.14049"
+         id="tspan260808-7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       x="127.94675"
+       y="63.719997"
+       id="text98043-3-9-6-95"
+       transform="rotate(-1)"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98041-1-30-2-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="127.94675"
+         y="63.719997">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       x="153.66499"
+       y="64.144592"
+       id="text98043-3-9-6-95-2"
+       transform="rotate(-1)"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98041-1-30-2-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="153.66499"
+         y="64.144592">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       x="58.136734"
+       y="116.24155"
+       id="text98043-3-9-6-9"
+       transform="rotate(-1)"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98041-1-30-2-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="58.136734"
+         y="116.24155">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       x="162.43675"
+       y="177.72459"
+       id="text98043-3-9-6-9-7"
+       transform="rotate(-1)"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98041-1-30-2-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="162.43675"
+         y="177.72459">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       x="59.899158"
+       y="176.64601"
+       id="text98043-3-9-6-4"
+       transform="rotate(-1)"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98041-1-30-2-70"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="59.899158"
+         y="176.64601">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#004aad;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       x="223.70439"
+       y="178.45598"
+       id="text98043-3-9-6-4-6"
+       transform="rotate(-1)"
+       inkscape:export-filename="/home/rick/Dropbox/disciplininhas/Lockin/Lock-in_2024.1/Plan/protocolo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan98041-1-30-2-70-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004aad;fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="223.70439"
+         y="178.45598">3</tspan></text>
+  </g>
 </svg>
