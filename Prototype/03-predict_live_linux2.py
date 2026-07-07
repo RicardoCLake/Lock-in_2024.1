@@ -294,7 +294,10 @@ class PositionGUI:
         for region, (x0, y0, x1, y1) in self.REGIONS.items():
             fill = self.COLOR_IDLE_5 if region == 5 else self.COLOR_IDLE
             rect = self.canvas.create_rectangle(x0, y0, x1, y1, fill=fill, outline="")
-            cx, cy = (x0 + x1) / 2, (y0 + y1) / 2
+            if region == 5:
+                cx, cy = (x0 * 3 + x1) / 4, (y0 + y1) / 2
+            else:
+                cx, cy = (x0 + x1) / 2, (y0 + y1) / 2
             text = self.canvas.create_text(
                 cx, cy, text=str(region), font=("Helvetica", 34, "bold"), fill=self.TEXT_IDLE
             )
